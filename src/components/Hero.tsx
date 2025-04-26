@@ -6,8 +6,8 @@ const Hero = () => {
     <div className="relative h-screen flex items-center">
       <div className="absolute inset-0">
         <img
-          src="https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05"
-          alt="Hero background"
+          src="https://images.unsplash.com/photo-1469474968028-56623f02e42e"
+          alt="Travel Influencer with scenic view"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-black/40" />
@@ -19,11 +19,11 @@ const Hero = () => {
             Travel, Track, Earn.
           </h1>
           <p className="text-xl md:text-2xl text-atlas-white font-montserrat font-light mb-8 animate-fade-up">
-            Your journeys. Your memories. Your rewards.<br />
-            Powered by blockchain.
+            Turn your travel content into income.<br />
+            Connect with luxury brands seeking authentic storytellers.
           </p>
           <Button className="bg-atlas-black text-white px-8 py-6 text-lg hover:bg-atlas-teal transition-colors animate-fade-up">
-            Start Your Adventure
+            Start Creating
           </Button>
         </div>
       </div>

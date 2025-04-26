@@ -16,11 +16,11 @@ const CTASection = () => {
       <div className="relative py-32 px-4">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl md:text-6xl font-playfair text-white mb-12">
-            Where Will Your Journey Take You?
+            Ready to Monetize Your Travel Content?
           </h2>
           <div className="flex flex-col md:flex-row items-center justify-center gap-6">
             <Button className="bg-atlas-black text-white px-8 py-6 text-lg hover:bg-atlas-teal transition-colors w-full md:w-auto">
-              Download the App
+              Join Creator Network
             </Button>
             <Button className="bg-white text-atlas-black px-8 py-6 text-lg hover:bg-atlas-teal hover:text-white transition-colors w-full md:w-auto">
               Connect Wallet

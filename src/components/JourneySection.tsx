@@ -3,17 +3,17 @@ const journeyItems = [
   {
     image: "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb",
     title: "Travel",
-    description: "Explore the world like never before.",
+    description: "Access exclusive destinations and luxury stays.",
   },
   {
     image: "https://images.unsplash.com/photo-1472396961693-142e6e269027",
-    title: "Track",
-    description: "Immortalize your adventures on your personal blockchain map.",
+    title: "Create",
+    description: "Share your authentic travel stories and inspire others.",
   },
   {
     image: "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
     title: "Earn",
-    description: "Unlock exclusive rewards — lounges, events, memberships.",
+    description: "Get paid for your content and unlock brand partnerships.",
   },
 ];
 

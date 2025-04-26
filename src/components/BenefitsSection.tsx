@@ -1,22 +1,22 @@
 
-import { Plane, Award, Wallet, Users } from "lucide-react";
+import { Star, Gift, Briefcase, Globe } from "lucide-react";
 
 const benefits = [
   {
-    icon: Plane,
-    title: "Airport Lounge Access",
+    icon: Star,
+    title: "Premium Brand Partnerships",
   },
   {
-    icon: Award,
-    title: "Private Invitations to Luxury Events",
+    icon: Gift,
+    title: "Complimentary Luxury Stays",
   },
   {
-    icon: Wallet,
-    title: "Travel Points toward Future Trips",
+    icon: Briefcase,
+    title: "Paid Travel Opportunities",
   },
   {
-    icon: Users,
-    title: "Membership to Elite Traveler Communities",
+    icon: Globe,
+    title: "Global Creator Network",
   },
 ];
 
