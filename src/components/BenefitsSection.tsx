@@ -1,9 +1,9 @@
 
-import { Airplane, Award, Users, Wallet } from "lucide-react";
+import { Plane, Award, Wallet, Users } from "lucide-react";
 
 const benefits = [
   {
-    icon: Airplane,
+    icon: Plane,
     title: "Airport Lounge Access",
   },
   {

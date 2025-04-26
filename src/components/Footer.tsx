@@ -1,5 +1,5 @@
 
-import { Instagram, Twitter, Tiktok, Discord } from "lucide-react";
+import { Instagram, Twitter, MessageSquare, Slack } from "lucide-react";
 
 const Footer = () => {
   return (
@@ -43,10 +43,10 @@ const Footer = () => {
                 <Twitter className="w-6 h-6" />
               </a>
               <a href="#" className="text-gray-400 hover:text-white transition-colors">
-                <Tiktok className="w-6 h-6" />
+                <MessageSquare className="w-6 h-6" />
               </a>
               <a href="#" className="text-gray-400 hover:text-white transition-colors">
-                <Discord className="w-6 h-6" />
+                <Slack className="w-6 h-6" />
               </a>
             </div>
           </div>
